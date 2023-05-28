@@ -1,5 +1,14 @@
 # PRPO
-ЛР по Проектированию и тестированию ПО
+
+_
+_
+_
+# [RGR_code](https://github.com/Egorrss/PRPO/tree/main/RGR/PACMAN_GAME) | _[ОТЧЕТ](https://github.com/Egorrss/PRPO/blob/main/RGR/%D0%A0%D0%93%D0%A0_%D0%9E%D0%A2%D0%A7%D0%95%D0%A2.pdf)_ | _[ссылка](https://github.com/Egorrss/PRPO/raw/main/RGR/PACMAN_GAME.jar)_ на скачивание исполняемого .jar файла с игрой
+
+_
+_
+_
+# ЛР по Проектированию и тестированию ПО
 ______________________________________
 ## [LR1](https://github.com/Egorrss/PRPO/tree/main/prpo1_v1) PC/UVaIDs: 110101/100 (Задача 3n + 1)
 [Отчет 1](https://github.com/Egorrss/PRPO/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D0%9E1.pdf)
