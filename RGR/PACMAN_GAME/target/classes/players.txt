@@ -1,0 +1,4 @@
+player: 1
+ghostKiller: 1, 2, 4
+pacpacpac: 1, 3
+EGOR: 1
